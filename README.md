@@ -1,3 +1,3 @@
 # Git_Test
-Using git from command line
+Using git from command line.  
 Testing git
