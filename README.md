@@ -3,3 +3,6 @@ Using git from command line.
 Testing git......       
 
 First Git Test ....
+
+Commands tried:-
+  git push
